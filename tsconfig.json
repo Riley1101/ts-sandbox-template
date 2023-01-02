@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // where to produce the compiled files
+    "target": "ES3" // which level of JS support to target
+  },
+  "include": ["src"] // which files to compile
+}
